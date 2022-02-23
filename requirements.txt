@@ -1,0 +1,7 @@
+asgiref==3.5.0
+beautifulsoup4==4.9.1
+Django==3.2.12
+pkg_resources==0.0.0
+pytz==2021.3
+soupsieve==2.3.1
+sqlparse==0.4.2
